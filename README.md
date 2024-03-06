@@ -2,6 +2,9 @@
 This repository contains code and results for the experiments in prodrome project using data from migraine patients.
 ## Content
 **Data_preprocessing** folder consists of three files: 
+- **data_prep.ipynb** - first original preprocessed dataset.
+- **data_prep_conditional.ipynb** - first original preprocessed dataset.
+- **datatata_prep.ipynb** - first original preprocessed dataset.
 
 **data_csvs** folder consists of three files: 
 
