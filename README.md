@@ -1,7 +1,9 @@
 # Prodrome
-Data_preprocessing have three files: 
+This repository contains code and results for the experiments in prodrome project using data from migraine patients.
+## Content
+**Data_preprocessing** folder consists of three files: 
 
-data_csvs have three files: 
+**data_csvs** folder consists of three files: 
 
 df_data (1).csv - first original preprocessed dataset.
 
