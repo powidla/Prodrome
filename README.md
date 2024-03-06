@@ -14,4 +14,5 @@ This repository contains code and results for the experiments in prodrome projec
 It was used to train models in first place.  
 
 **ml_code** folder contains saved model and notebooks for experiments.
+
 **figures** folder has results of classification and feature importance results.
