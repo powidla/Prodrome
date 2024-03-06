@@ -8,9 +8,10 @@ This repository contains code and results for the experiments in prodrome projec
 
 **data_csvs** folder consists of three files: 
 
-- **df_data (1).csv** - first original preprocessed dataset.
-- **df_data (1).csv** - first original preprocessed dataset.
-- **df_data (1).csv** - first original preprocessed dataset.
+- **df_data (1).csv** - original preprocessed dataset.
+- **df_data_tp=-2.csv** - dataset with timepoints two points behind.
+- **df_data_tp=-3.csv** - dataset with timepoints three points behind.
 It was used to train models in first place.  
 
-df_data_tp=-2.csv is dataset that was used to train 
+**ml_code** folder contains saved model and notebooks for experiments.
+**figures** folder has results of classification and feature importance results.
